@@ -7,4 +7,6 @@ Functionalities include
 4) Add new contact in the existing list
 5) Display contacts in sorted order sectionwise
 
-*Currently only random contact list generation is supported
+Implemented using
+1) react native
+2) react navigation
